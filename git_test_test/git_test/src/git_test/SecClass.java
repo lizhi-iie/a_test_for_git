@@ -1,6 +1,6 @@
 package git_test;
 
 public class SecClass {
-	String a;
+	private int a;
 	int c;
 }
